@@ -3,7 +3,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=numan947&show_icons=true&theme=radical&hide_rank=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=numan947&layout=donut&hide=Jupyter%20Notebook)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/numan947?font=Fira%20Code&ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/numan947?font=Fira%20Code)
 <!--
 **numan947/numan947** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
