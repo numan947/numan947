@@ -1,23 +1,23 @@
-# WORK IN PROGRESS
+### Hi there, I'm S Mahmudul Hasan! 👋
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=numan947&show_icons=true&theme=radical&hide_rank=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=numan947&layout=donut&hide=Jupyter%20Notebook)
+#### I'm a Software Engineer and a road trip enthusiast.
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/numan947?font=Fira%20Code)](https://leetcode.com/numan947/)
-![](https://komarev.com/ghpvc/?username=numan947)
-<!--
-**numan947/numan947** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning to do stuff on the cloud using AWS.
+- 💬 Ask me about some data science and machine learning stuff.
+- 📫 How to reach me: mahmudulhasan947 [AT] gmail [dot] com.
+### 🚀 About Me:
 
-Here are some ideas to get you started:
+I'm passionate about software developer and technology enthusiast. I love to play around with interesting technologies. Currently, I'm working on preparing for SWE interviews by doing DSAs and building some more projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![LeetCode Stats](https://leetcard.jacoblin.cool/numan947?theme=nord&font=Fira%20Code&ext=contest)
+### 🛠️ Technologies & Tools:
+- Amazon Web Services
+- Python
+- C/C++
+- Flutter
+- Docker
 
--->
+### 📊 GitHub Stats:
+
+### 🌐 Connect with Me:
+
+[![Website](https://img.shields.io/badge/Visit-Website-blue)](https://shasan.xyz)
