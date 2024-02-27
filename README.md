@@ -20,4 +20,4 @@ I'm passionate about software developer and technology enthusiast. I love to pla
 
 ### 🌐 Connect with Me:
 
-[![Website](https://img.shields.io/badge/Visit-Website-blue)](https://shasan.xyz)
+[![Website](https://img.shields.io/badge/Visit-Website-blue)](https://smhasan.me)
