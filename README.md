@@ -16,8 +16,6 @@ I'm passionate about software developer and technology enthusiast. I love to pla
 - Flutter
 - Docker
 
-### 📊 GitHub Stats:
-
 ### 🌐 Connect with Me:
 
 [![Website](https://img.shields.io/badge/Visit-Website-blue)](https://smhasan.me)
