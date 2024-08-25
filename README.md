@@ -11,6 +11,7 @@ I'm passionate about software developer and technology enthusiast. I love to pla
 
 ### 🛠️ Technologies & Tools:
 - Amazon Web Services
+- Android Native Development (Kotlin & Java)
 - Python
 - C/C++
 - Flutter
